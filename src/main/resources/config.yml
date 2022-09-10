@@ -1,0 +1,2 @@
+world-border: true #Oyuncuların ne kadar uzağa ışınlanacağını sınırlamak istiyorsanız true yapın
+border: 200 #Boş Bırakırsanız, Limit Normal Olarak 25,000 Block Olarak Ayarlancak
