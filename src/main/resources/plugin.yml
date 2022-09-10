@@ -1,0 +1,8 @@
+name: RandomTP
+version: '${project.version}'
+main: me.emre.randomtp.RandomTP
+api-version: 1.19
+commands:
+  rtp:
+    description: Rastgele Teleport Attırır
+    usage: /<commands>
